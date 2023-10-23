@@ -17,7 +17,7 @@ const orderSchema = new Schema(
     selectedAddress: { type: Schema.Types.Mixed, required: true },
   },
   { timestamps: true }
-); 
+);  
 
 const virtual = orderSchema.virtual('id');
 virtual.get(function () {
