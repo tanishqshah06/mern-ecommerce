@@ -17,5 +17,5 @@ router.post('/', createProduct)
       //       console.log(product.title+ ' updated')
       //      }
       //      res.send('ok')
-      // })
+      // })  
 exports.router = router; 
