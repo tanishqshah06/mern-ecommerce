@@ -169,7 +169,7 @@ exports.invoiceTemplate = function(order){
           <tr>
             <td align="center" valign="top" style="padding: 36px 24px;">
               <a href="https://imgs.search.brave.com/irjrWpzh37cj_0eHQ2NcySbYAP50SWnoWcE_knomtbQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE2/ODU3MTM5Ni92ZWN0/b3IvZGVudGlzdC1s/b2dvLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1YWTJmNHJN/Q2tXZ0Q1aHQ0X2s4/d0E5eVY1NEhzNW9x/X3ExRklSUkNkNEJZ/PQ" target="_blank" style="display: inline-block;">
-                <img src="./img/paste-logo-light@2x.png" alt="Logo" border="0" width="48" style="display: block; width: 48px; max-width: 48px; min-width: 48px;">
+                <img src="https://imgs.search.brave.com/irjrWpzh37cj_0eHQ2NcySbYAP50SWnoWcE_knomtbQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE2/ODU3MTM5Ni92ZWN0/b3IvZGVudGlzdC1s/b2dvLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1YWTJmNHJN/Q2tXZ0Q1aHQ0X2s4/d0E5eVY1NEhzNW9x/X3ExRklSUkNkNEJZ/PQ" alt="Logo" border="0" width="48" style="display: block; width: 48px; max-width: 48px; min-width: 48px;">
               </a>
             </td>
           </tr>
