@@ -123,6 +123,10 @@ exports.invoiceTemplate = function(order){
     height: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 
   /**
